@@ -1,1 +1,1 @@
-FROM kubernetes-dashboard-amd64:v1.10
+FROM kubernetes-dashboard-amd64:v1.8.3
